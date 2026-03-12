@@ -1,0 +1,6 @@
+.venv/
+node_modules/
+.next/
+*.pt
+keys.txt
+.vscode/
